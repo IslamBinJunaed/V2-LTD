@@ -2,10 +2,10 @@
 
 clone the repo
 
---for frontend --
-cd frontend
-npm run serve
+--for frontend -- <br>
+cd frontend <br>
+npm run serve <br>
 
---for backend
-cd backend
-node index.js
+--for backend<br>
+cd backend<br>
+node index.js<br>
